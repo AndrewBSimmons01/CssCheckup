@@ -43,13 +43,13 @@
 .backgrounds
 {border:2px solid orange;
     margin: 2px;
-    background-image: url(../../HTMLCSSPrework/assets/andrew-ridley-jR4Zf-riEjI-unsplash.jpg);
+    background-image: url(./andrew-ridley-jR4Zf-riEjI-unsplash.jpg);
     height:150px;
     width:75%;
     color: white;
 }
 .backgrounds2
-{   background-image: url(../../HTMLCSSPrework/assets/frantisek-g-XXuVXLy5gHU-unsplash.jpg);
+{   background-image: url(./frantisek-g-XXuVXLy5gHU-unsplash.jpg);
     height: 150px;
     border:2px solid orange;
     margin:2px;
