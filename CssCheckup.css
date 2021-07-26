@@ -1,32 +1,75 @@
 .class
 {border:2px solid orange;
     margin: 2px;
+    color: red;
 }
 .id
 {border:2px solid orange;
     margin: 2px;
+    color:red;
 }
+#id 
+{color:green;}
 .marginandpadding
 {border:2px solid orange;
-    margin: 2px;
+    margin: 2px
+    padding 5 px;
+}
+#marginandpadding1
+{border: 5px dotted pink;
+    margin: 5px;
+    padding:10em;
+}
+#marginandpadding2
+{border: 2px dashed pink;
+    margin: 2em;
+    padding: 5em;
 }
 .font
 {border:2px solid orange;
     margin: 2px;
+    font-size: smaller;
+    font-family:monospace;
+    font-stretch:ultra-expanded;
+}
+#font1
+{font-size:medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#font2
+{font-size:larger;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 .backgrounds
 {border:2px solid orange;
     margin: 2px;
+    background-image: url(../../HTMLCSSPrework/assets/andrew-ridley-jR4Zf-riEjI-unsplash.jpg);
+    height:150px;
+    width:75%;
+    color: white;
+}
+.backgrounds2
+{   background-image: url(../../HTMLCSSPrework/assets/frantisek-g-XXuVXLy5gHU-unsplash.jpg);
+    height: 150px;
+    border:2px solid orange;
+    margin:2px;
+    width:100%px;
+    color:white;
 }
 .widthandheight
 {border:2px solid orange;
     margin: 2px;
+    
 }
 .border
-{border:2px solid orange;
+{border:10px groove cyan;
     margin: 2px;
 }
 .misc
 {border:2px solid orange;
     margin: 2px;
+    background-image:linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    font-size:40px;
+    color: yellowgreen;
+    text-shadow: tomato;
 }
